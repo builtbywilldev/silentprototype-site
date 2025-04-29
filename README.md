@@ -67,4 +67,4 @@ Forged by Fire.
 Signaled by Code.**
 
 
-![alt text](image.png)# silentprototype-site
+
